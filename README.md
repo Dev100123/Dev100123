@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajib Chandra Ghosh</h1>
-<h3 align="center">I'm currently doing my master's in Data Science at the University of Naples Federico II, Italy. I have completed my bachelor's in Computer Science & Engineering From Jain University, India.</h3>
+<h3 align="center">I hold a Master's degree in Data Science from the University of Naples Federico II, Italy, and a Bachelor's degree in Computer Science and Engineering from Jain University, India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semanto-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="rajib-chandra-ghosh" /> </p>
 
 - 🌱 I’m currently learning **Varieties of topics related to Data Science**
