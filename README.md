@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajib Chandra Ghosh</h1>
 <h3 align="center">I hold a Master's degree in Data Science from the University of Naples Federico II, Italy, and a Bachelor's degree in Computer Science and Engineering from Jain University, India.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=semanto-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="rajib-chandra-ghosh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev100123&label=Profile%20views&color=0e75b6&style=flat" alt="rajib-chandra-ghosh" /> </p>
 
 - 🌱 I’m currently learning **Varieties of topics related to Data Science**
 
@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://www.linkedin.com/in/rajib-chandra-ghosh-2a3407255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajib chandra ghosh" height="30" width="40" /></a> -->
-<img src="https://komarev.com/ghpvc/?username=Dev100123&style=flat" alt="Rajib Chandra Ghosh" />
+<a href="https://www.linkedin.com/in/rajib-chandra-ghosh-2a3407255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajib chandra ghosh" height="30" width="40" /></a>
+
 
 </p>
 
