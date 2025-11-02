@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/rajib-chandra-ghosh-2a3407255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajib chandra ghosh" height="30" width="40" /></a>
 
 
-</p>
+<!-- </p>
 
 ### 🧰 Languages and Tools
 
@@ -36,6 +36,6 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<br />
+<br /> -->
 
 
